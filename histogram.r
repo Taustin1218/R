@@ -29,7 +29,7 @@ hist(iris$Petal.Width)
 ?c
 
 # group 3 histograms in 3 rows and 1 column
-par(mfrow = c(3,1))
+par(mfrow = c(3, 1))
 
 # create a histogram for each species of iris
 # inside the square brackets, we include a
